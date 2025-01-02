@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Learning with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to learn about the framework **React**, so I will develop some components and learn the theory behind **React** (how works inside and outside).
 
 ## Available Scripts
 
@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Optional Links
